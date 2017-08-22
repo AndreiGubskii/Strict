@@ -1,2 +1,2 @@
 # Strict
-Demo page
+[View demo](https://andreigubskii.github.io/Strict/)

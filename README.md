@@ -1,0 +1,2 @@
+# Strict
+Demo page
